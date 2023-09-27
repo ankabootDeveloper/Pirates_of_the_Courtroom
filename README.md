@@ -4,7 +4,7 @@ Required external application: Ren'Py
 Download .exe: https://www.renpy.org/latest.html
 - (Any version is fine, we use version 8.1.3)
 
-To launch/start the renpy application:
+To open the renpy application:
 Extract downloaded zip file to preferred destination (i.e Downloads Folder, Documents,etc.)
 Open the recently downloaded folder "renpy-8.1.3-sdk"
 - open the application 'renpy'
