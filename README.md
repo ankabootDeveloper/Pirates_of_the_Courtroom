@@ -9,7 +9,7 @@ Extract downloaded zip file to preferred destination (i.e Downloads Folder, Docu
 Open the recently downloaded folder "renpy-8.1.3-sdk"
 - open the application 'renpy'
 
-<img src="Ren'Py Installation Application.png" width ="50" height="50"
+<img src="<Ren'Py Installation Application.png>" width ="50" height="50"
 
 To run our visual novel on your machine:
 - Clone repository to preferred destination
