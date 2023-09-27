@@ -14,5 +14,6 @@ To run our visual novel on your machine:
 - Clone repository to preferred destination
 - copy and paste the game foler "Jack Sparrow Case" into the "renpy-8.1.3-sdk" file path
 ![Alt text](<Copy Cloned File.png>)
+![Alt text](<Paste Game Folder in Ren'Py.png>)
 - Open Ren'Py and the Jack Sparrow Case should be on the left pane and then click on "Launch Project"
 ![Alt text](<Run Game in Ren'Py.png>)
