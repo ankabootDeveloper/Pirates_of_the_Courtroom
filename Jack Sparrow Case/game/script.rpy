@@ -7,6 +7,7 @@ define j = Character("Johnny")
 define chew = Character("Mr. Chew")
 define judge = Character("Judge Azcarate")
 define amber = Character("Amber Heard")
+define vasquez = Character("Camille Vasquez")
 # The game starts here.
 
 label start:
@@ -70,11 +71,24 @@ label start:
     with dissolve
     chew"Good morning. I'm Ben Chew from Brown Rudnick, representing Johnny Depp. Some of you may recognize Mr. Depp from seeing him portray characters such as Edward Scissorhands or Captain Jack Sparrow from the \"Pirates of the Caribbean\" movies."
     chew"For nearly 30 years, Mr. Depp built a reputation as one of the most talented actor in Hollywood, a respected artist whose name was associated with success at the box office."
-    
+    chew"Today, his name is associated with a lie, a false statement uttered by his former wife, the defendent, Amber Heard, who falsely casted Mr. Depp as a villain, a man who would violently abuse a woman."
+    chew"He's suing Mrs. Heard for defamation. Mrs. Heard falsely accused Mr.Depp of abuse in a December 2018 Washington Post op-ed. This trial is about clearing Mr. Depp's name, Heard's allegations are false, and we'll prove it!"
+    chew"Her words in the op-ed, particularly three statements, caused significant harm: \"I spoke up against sexual violence and faced our culture's wrath.\""
+    chew"\"Two years ago,  I became a public figure reprsenting domestic abuse.\" \nThe evidence shows the timing of the op-ed wasn't coincidental---"
+    chew"... it was strategically released on the eve of her movie release. Mrs. Heard's false accusations affected Depp's career and reputation."
+    chew"Ms. Heard did not use Mr. Depp's name in the op-ed, but everyone knew...Hollywood knew."
+    chew"Two years before the op-ed, on May 27, 2016, Ms. Heard accused Mr. Depp of abuse after he requested a divorce. The evidence will reveal her actions were prompted by his decision to end the relationship. Six days after the divorce request, she filed for a restraining order with a mysterious mark on her face."
+    chew"And to tell you more about that, I am going to turn it over to my colleague, Camille Vasquez. Thank you for your attention."
 
-
-
-
+    hide chew_1
+    show judge_1 at top:
+        zoom 1.8
+    with dissolve
+    judge"Thank you. Attorney Vasquez, please commence."
+    hide judge_1
+    show vasquez_1 at topleft:
+    with dissolve
+    vasquez"Thank you, Your Honor"
     # This ends the game.
 
     return
