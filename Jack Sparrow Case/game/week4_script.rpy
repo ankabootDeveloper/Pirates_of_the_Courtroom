@@ -3,21 +3,9 @@ define judge = Character("Judge Azcarate", color="#c8ffc8")
 define meyers = Character("Ms. Meyers", color="#ffc8ff")
 define mcgivern = Character("Mr. McGivern", color="#c8c8ff")
 
-# Define score variable
-default score = 0
-
-# Function to display the score
-label display_score:
-    "Score: [score]"
-    if score == 1:
-        "You answered 1 question correctly. Well done!"
-    else:
-        "You answered [score] questions correctly. Great job!"
-    "Thank you for playing. The game has ended."
-    return
 
 # Start of the game for week 4
-label start:
+label start_week4:
     scene black  # Set background color to black
     
     # Display character images
@@ -77,4 +65,4 @@ label start:
             judge "Objection sustained. Move on to the next phase of the trial."
     
     # Display the score and end the game
-    call display_score
+

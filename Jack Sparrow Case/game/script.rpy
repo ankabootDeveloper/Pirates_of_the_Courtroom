@@ -89,6 +89,12 @@ label start:
     show vasquez_1 at topleft:
     with dissolve
     vasquez"Thank you, Your Honor"
+
+    #jump start_week2
+    ## week 3 here
+    #jump start_week4
+    jump start_week5
+
     # This ends the game.
 
     return
