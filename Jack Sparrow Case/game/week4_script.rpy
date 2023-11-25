@@ -3,7 +3,6 @@ define judge = Character("Judge Azcarate", color="#c8ffc8")
 define meyers = Character("Ms. Meyers", color="#ffc8ff")
 define mcgivern = Character("Mr. McGivern", color="#c8c8ff")
 
-
 # Start of the game for week 4
 label start_week4:
     scene black  # Set background color to black

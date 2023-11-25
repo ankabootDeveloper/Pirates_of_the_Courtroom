@@ -6,285 +6,307 @@ define chew = Character("Mr. Chew")
 define judge = Character("Judge Azcarate")
 define heard = Character("Amber Heard")
 define vasquez = Character("Camille Vasquez")
+define woman = Character("Woman")
 
 # Placeholder images for characters and shows
 
+image t_chew = "t_chew.jpg"
+image t_bredehoft = "t_bredehoft.jpg"
+image t_choice = "t_choice.png"
+image t_depp = "t_depp.jpg"
+image t_heard = "t_heard.jpg"
+image t_heardBruise = "t_heardBruise.jpg"
+image t_heardCar = "t_heardCar.jpg"
+image t_heardConcerned = "t_heardConcerned.jpg"
+image t_heardDivorce = "t_heardDivorce.jpg"
+image t_heardDivorceSurprise = "t_heardDivorceSurprise.jpg"
+image t_heardMetGala = "t_heardMetGala.jpg"
+image t_heardSurprised = "t_heardSurprised.jpg"
+image t_judge = "t_judge.jpg"
+image t_magic = "t_magic.jpg"
+image t_mirror = "t_mirror.jpg"
+image t_roomFloor = "t_roomFloor.jpg"
+image t_sheriff = "t_sheriff.jpg"
+image t_vasquez = "t_vasquez.jpg"
+image t_phone = "t_phone.jpg"
+image t_knifeGift = "t_knifeGift.jpg"
+image t_time = "t_time.jpg"
+
+
 # Start of Week 5
 label start_week5:
-    show courtroom_1
-    """
-    Day 17 Trial. Johnny Depp v. Amber Heard
-    \nMay 16, 2022
-    \nFairfax County, Virginia
-    """
-    show t_judge
-    judge "Good morning, ladies and gentlemen, thank you for being so punctual this morning. I appreciate it for the early start."
-    judge "Just a reminder, Ms. Heard you're still under oath, okay? All right, next question."
-    hide judge
-
-    show t_bredehoft
-    bredehoft "Thank you, Your Honor. Amber, when did the first act of physical violence by Mr. Depp occur?"
-    hide t_bredehoft
-
-    show t_vasquez
-    vasquez "Objection, asked and answered."
-    hide t_vasquez
-   
-    show t_judge
-    judge "Overruled, go ahead."
-    hide t_judge
-
-    show t_heard
-    heard "It would have been early 2012."
-    hide t_heard
-
-    show t_bredehoft
-    bredehoft "And how did you determine this?"
-    hide t_bredehoft
-    
-    show t_heard
-    heard "I reviewed my therapist..."
-    hide t_heard
-
-    show t_vasquez
-    vasquez "Objection, hearsay."
-    hide t_vasquez
-
-    show t_bredehoft
-    bredehoft "She hasn't even answered it, Your Honor."
-    hide t_bredehoft
-
-    show t_judge
-    judge "All right, I'll allow the answer."
-    hide t_judge
-
-    show t_heard
-    heard "By reviewing my therapist's notes."
-    hide t_heard
-    
-    show t_vasquez
-    vasquez "Objection, hearsay."
-    hide t_vasquez
-    
-    show t_judge
-    judge "I'll sustain the objection."
-    hide t_judge
-
-    show t_bredehoft
-    bredehoft "Okay. When did you earlier believe the first act of physical violence occurred?"
-    hide t_bredehoft
-
-    show t_heard
-    heard "Well, I had always believed up until recently that it was...it had started later, that the violence started around early 2013 and early 2012."
-    hide t_heard
-
-    show t_bredehoft
-    bredehoft "Now, you testified earlier that the first act of physical violence by Mr. Depp related to the Winona-Wino tattoo, do you recall that testimony?"
-    hide t_bredehoft
-
-    show t_heard
-    heard "I do."
-    hide t_heard
-
-    show t_bredehoft
-    bredehoft "Okay, does that change your testimony realizing that this is earlier? Was this, in fact, still the first act?"
-    hide t_bredehoft
-
-    show t_vasquez
-    vasquez "Objection, leading."
-    hide t_vasquez
-
-    show t_judge
-    judge "Sustained."
-    hide t_judge
-
-    show t_bredehoft
-    bredehoft "How do you remember the first act of violence?"
-    hide t_bredehoft
-
-    show t_heard
-    heard " Well, you never forget it. That's how I remember it. It changes your life forever. You never forget the first time someone hits you like that. I just had the date wrong."
-    hide t_heard
-
-    show t_bredehoft
-    bredehoft " Okay. And how is it that you think you got the date wrong?"
-    hide t_bredehoft
-
-    show t_vasquez
-    vasquez "Objection, calls for speculation."
-    hide t_vasquez
-
-    show t_judge
-    judge "Overruled."
-    hide t_judge
-
-    show t_heard
-    heard "I'm embarrassed to say, I think I would have liked to believe that the period of time in which I had to fall in love with Johnny, in which we fell in love and he was sober and he wasn't violent to me lasted for a lot longer than it did."
-    heard "I think I would have liked to have believed that. I wasn't hit so early in the relationship and still stayed."
-    hide t_heard
-
-    show t_heard
-    judge "He was also sober for a period in 2012, which was a peaceful time for us in which we fell in love. So, I had kind of allowed myself, I guess, to forget the beginning of that period, before he got sober, was really violent and chaotic as well. I am embarrassed to say that."
-    hide t_heard
-
-    show t_bredehoft
-    judge " Okay. I'm going to take you to the tape recordings. Why did you and Mr. Depp start taping each other?"
-    hide t_bredehoft
-
-    show t_heard
-    heard "Well, at first, it was...not at first, it was meant to be a way to get to the heart of some of our communication issues, and in order to do...to discover in a therapeutic fashion kind of what was some of our issues in our communication were."
-    hide t_heard
-    show t_bredehoft
-    bredehoft "So, what did Mr. Depp say in your discussions about the use of the term threatening to divorce or threatening to leave each other?"
-    hide t_bredehoft
-    show t_heard
-    heard "Well, Johnny would always say, 'The only way out of this was death.' But in fights, in particularly heated ones, we had found...you know, we were using divorce in the fight, in some of our heated fights."
-    heard "We tried not to, but that kind of deteriorated after the December incident that I got beat up pretty badly. And after that point, it was used a lot more often"
-    hide t_heard
-    show t_bredehoft
-    bredehoft "Okay. Now, March 26, 2015, this is after the first Australia trip and after the staircase incident. I'm going to ask, Michelle, can you bring up Depp Exhibit 371A?"
-    hide t_bredehoft
-    show t_judge
-    judge "Plaintiff's 371A then. Any objection?"
-    hide t_judge
-    show t_vasquez
-    vasquez "No objection."
-    hide t_vasquez
-    show t_judge
-    judge "Okay, 371A in evidence. Thank you."
-    hide t_judge
-    show t_heard
-
-    # AUDIO RECORDINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
-    heard "I see somebody who's changing into different versions of a person that I recognize for a brief moment, and then he slips away, then he disappears. Then I get different versions of him. I get the insecure or scared version of him that lashes out in a different medium every time."
-    hide t_heard
-    show t_heard
-    heard "So if it's Adderall or Junkie Johnny, then he's abusive and he's a tyrant and he's mean, he's reactionary and he's (inaudible), and anything I do and say is cause for violence or anger."
-    hide t_heard
-    show t_heard
-    heard "If I speak bluntly from the heart, I'm yelling at him. If I argue back with him, then I'm abusive. If I don't say anything, then I'm dismissive or absent or somewhere else. If I engage with him, I'm part of the problem, I'm the one that was mean. "
-    heard "If I don't engage with him, then I'm part of the problem. No matter what I do I'm fucked."
-    hide t_heard
-    show t_heard
-    heard "Because if I look at him in the wrong way, it's a problem. If I say the wrong thing no matter what it is, I'm the problem. I'm the problem no matter what. That's the guy who's on a bunch of fucking speed."
-    hide t_heard
-    # AUDIO RECORDINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
-    show t_bredehoft
-    bredehoft "What did you mean when you were saying that to Mr."
-    hide t_bredehoft
-    show t_heard
-    heard "That no matter my perception was, no matter what I did, no matter what I did to de-escalate, walk away from him, to confront him, to try to..."
-    heard "nothing I did made a difference, nothing I did changed his rage at me, nothing I did change the violence towards me, nothing I did calm him down, and I was constantly doing a juggling act of what kind of version of Johnny I was dealing with."
-    hide t_heard
-    show t_heard
-    heard "There were different versions of him and they were drastically different from one another, and even more so than them being different from one another, they didn't even sometimes remember what the other version did or said."
-    hide t_heard
-    show t_heard
-    heard "They acted almost like independent versions of his person, depending on what combination of drugs and alcohol he was on. That's what I was trying to express to him. It's just the futility of me responding successfully and the futility of trying to constantly negotiate with him and the substances he was on at the time."
-    hide t_heard
-    show t_time
-    "May 18, 2022, Continued."
-    hide t_time
-    show t_judge
-    judge "Thank you. All right, be seated. Cross-examination."
-    hide t_judge
-    show t_vasquez
-    vasquez "Good afternoon, Ms. Heard"
-    hide t_vasquez
-    show t_vasquez
-    vasquez "Mr. Depp hasn't looked at you once this entire trial, has he?"
-    hide t_vasquez
-    show t_heard
-    heard "Not that I've noticed, no."
-    hide t_heard
-    show t_vasquez
-    vasquez "You've looked at him, though, many times, haven't you?"
-    hide t_vasquez
-    show t_heard
-    heard "Yes, I have."
-    hide t_heard
-    show t_vasquez
-    vasquez "You know exactly why Mr. Depp won't look back at you, don't you?"
-    hide t_vasquez
-    show t_heard
-    heard "I do."
-    hide t_heard
-    show t_vasquez
-    vasquez "He promised you he would never...you would never see his eyes again. Isn't that true?"
-    hide t_vasquez
-    show t_heard
-    heard "I don't recall if he said that."
-    hide t_heard
-    show t_vasquez
-    vasquez "One of the last times you ever saw Mr. Depp was when you met him in San Francisco in July of 2016, right?"
-    hide t_vasquez
-    show t_heard
-    heard "That was the second to last time I saw him, yes."
-    hide t_heard
-    show t_vasquez
-    vasquez "And this was after you had publicly accused him of domestic violence?"
-    hide t_vasquez
-    show t_heard
-    heard "I got my restraining order before that, yes."
-    hide t_heard
-    show t_vasquez
-    vasquez "Let's please play Plaintiff's Exhibit 1229. For the record, it's at 11:01 through 12:09. I'm going to ask that it be admitted into evidence."
-    hide t_vasquez
-    show t_judge
-    judge "Any objection to 1229?"
-    hide t_judge
-    show t_bredehoft
-    bredehoft "No objection."
-    hide t_bredehoft
-    show t_judge
-    judge "Okay, 1229 entered in its entirety. Go ahead and play your section."
-    hide t_judge
-    # AUDIO RECOOOOOOOOOOOOOOOOOOORDING
-    show t_phone
-    heard "Is this how you want it to end? I don't understand, is this what you want?"
-    depp "No. Oh no, a hug will save it all. All this, everything you just did to me."
-    heard "Please, babe. I don't know. I just wanted to touch you. Seriously, it's..."
-    depp "Really, after all the shit you just said?"
-    heard "Yes, I just wanted to give you a hug, I just.."
-    depp "After all the shit you fucking accused me of, you wanna touch me?"
-    heard "Yes, yes, please, please hug me"
-    depp "You're fucking nuts"
-    heard "Please, I just wanted to hug you and say bye. I didn't want it to end bad."
-    depp "Oh, there is no chance of that. We did that last night, it was fine. That was good enough."
-    heard "I don't know what else to say."
-    depp "No, 'cause I'm nothing to you, and I will always be nothing to you."
-    heard "Please, please, calm. Calm down, baby, please."
-    depp "What? You're not my shrink."
-    heard "Please. Please, put your hand on my heart. Please just feel my heart, please."
-    depp "No."
-    heard "Please, I need to know if we'll ever see each other again, please."
-    depp "No, we'll never see each other again. We will never...don't take my fucking glasses off. You don't like fucking looking at not my fucking eyes? You will not see my eyes again."
-    hide t_phone
-    # AUDIO RECOOOOOOOOOOOOOOOOOOORDING
-    show t_vasquez
-    vasquez "This is from when you and Mr. Depp met in San Francisco in July of 2016, right? After you had publicly accused him of domestic abuse?"
-    hide t_vasquez
-    show t_heard
-    heard "Yes, and got my TRO."
-    hide t_heard
-    show t_vasquez
-    vasquez "And he tells you, 'You will not see my eyes again.' And he has kept that promise, hasn't he?"
-    hide t_vasquez
-    show t_heard
-    heard "As far as I know, he cannot look at me."
-    hide t_heard
-    show t_vasquez
-    vasquez "He won't look at you, right, Ms. Heard."
-    hide t_vasquez
-    show t_heard
-    heard "He can't."
-    hide t_heard
-    show t_vasquez
-    vasquez "(Internal Thoughts). What next?  (Evidence) Listen to the recording where Ms. Heard ridicules the notion of Mr. Depp announcing to the public that he has been a victim of domestic violence or (Evidence) Show the court text messages where Mr. Depp discusses his travel plans during the time of the alleged incidents."
-    hide t_vasquez
-    show t_chew
-    chew "Remember, we need to focus on the core of our argument. The text messages about travel plans, while interesting, don't directly challenge the narrative we're contesting. It's more impactful to use the recording where Ms. Heard mocks Mr. Depp's claim of being a victim. This directly addresses the credibility of her statements and supports our case more effectively."
-    hide t_chew
+    #show courtroom_1
+    #"""
+    #Day 17 Trial. Johnny Depp v. Amber Heard
+    #\n     May 16, 2022
+    #\nFairfax County, Virginia
+    #"""
+    #hide courtroom_1
+    #show t_judge
+    #judge "Good morning, ladies and gentlemen, thank you for being so punctual this morning. I appreciate it for the early start."
+    #judge "Just a reminder, Ms. Heard you're still under oath, okay? All right, next question."
+    #hide judge
+    #
+    #show t_bredehoft
+    #bredehoft "Thank you, Your Honor. Amber, when did the first act of physical violence by Mr. Depp occur?"
+    #hide t_bredehoft
+    #
+    #show t_vasquez
+    #vasquez "Objection, asked and answered."
+    #hide t_vasquez
+    #
+    #show t_judge
+    #judge "Overruled, go ahead."
+    #hide t_judge
+    #
+    #show t_heard
+    #heard "It would have been early 2012."
+    #hide t_heard
+    #
+    #show t_bredehoft
+    #bredehoft "And how did you determine this?"
+    #hide t_bredehoft
+    #
+    #show t_heard
+    #heard "I reviewed my therapist..."
+    #hide t_heard
+    #
+    #show t_vasquez
+    #vasquez "Objection, hearsay."
+    #hide t_vasquez
+    #
+    #show t_bredehoft
+    #bredehoft "She hasn't even answered it, Your Honor."
+    #hide t_bredehoft
+    #
+    #show t_judge
+    #judge "All right, I'll allow the answer."
+    #hide t_judge
+    #
+    #show t_heard
+    #heard "By reviewing my therapist's notes."
+    #hide t_heard
+    #
+    #show t_vasquez
+    #vasquez "Objection, hearsay."
+    #hide t_vasquez
+    #
+    #show t_judge
+    #judge "I'll sustain the objection."
+    #hide t_judge
+    #
+    #show t_bredehoft
+    #bredehoft "Okay. When did you earlier believe the first act of physical violence occurred?"
+    #hide t_bredehoft
+    #
+    #show t_heard
+    #heard "Well, I had always believed up until recently that it was...it had started later, that the violence started around early 2013 and early 2012."
+    #hide t_heard
+    #
+    #show t_bredehoft
+    #bredehoft "Now, you testified earlier that the first act of physical violence by Mr. Depp related to the Winona-Wino tattoo, do you recall that testimony?"
+    #hide t_bredehoft
+    #
+    #show t_heard
+    #heard "I do."
+    #hide t_heard
+    #
+    #show t_bredehoft
+    #bredehoft "Okay, does that change your testimony realizing that this is earlier? Was this, in fact, still the first act?"
+    #hide t_bredehoft
+    #
+    #show t_vasquez
+    #vasquez "Objection, leading."
+    #hide t_vasquez
+    #
+    #show t_judge
+    #judge "Sustained."
+    #hide t_judge
+    #
+    #show t_bredehoft
+    #bredehoft "How do you remember the first act of violence?"
+    #hide t_bredehoft
+    #
+    #show t_heard
+    #heard " Well, you never forget it. That's how I remember it. It changes your life forever. You never forget the first time someone hits you like that. I just had the date wrong."
+    #hide t_heard
+    #
+    #show t_bredehoft
+    #bredehoft " Okay. And how is it that you think you got the date wrong?"
+    #hide t_bredehoft
+    #
+    #show t_vasquez
+    #vasquez "Objection, calls for speculation."
+    #hide t_vasquez
+    #
+    #show t_judge
+    #judge "Overruled."
+    #hide t_judge
+    #
+    #show t_heard
+    #heard "I'm embarrassed to say, I think I would have liked to believe that the period of time in which I had to fall in love with Johnny, in which we fell in love and he was sober and he wasn't violent to me lasted for a lot longer than it did."
+    #heard "I think I would have liked to have believed that. I wasn't hit so early in the relationship and still stayed."
+    #hide t_heard
+    #
+    #show t_heard
+    #judge "He was also sober for a period in 2012, which was a peaceful time for us in which we fell in love. So, I had kind of allowed myself, I guess, to forget the beginning of that period, before he got sober, was really violent and chaotic as well. I am embarrassed to say that."
+    #hide t_heard
+    #
+    #show t_bredehoft
+    #judge " Okay. I'm going to take you to the tape recordings. Why did you and Mr. Depp start taping each other?"
+    #hide t_bredehoft
+    #
+    #show t_heard
+    #heard "Well, at first, it was...not at first, it was meant to be a way to get to the heart of some of our communication issues, and in order to do...to discover in a therapeutic fashion kind of what was some of our issues in our communication were."
+    #hide t_heard
+    #show t_bredehoft
+    #bredehoft "So, what did Mr. Depp say in your discussions about the use of the term threatening to divorce or threatening to leave each other?"
+    #hide t_bredehoft
+    #show t_heard
+    #heard "Well, Johnny would always say, 'The only way out of this was death.' But in fights, in particularly heated ones, we had found...you know, we were using divorce in the fight, in some of our heated fights."
+    #heard "We tried not to, but that kind of deteriorated after the December incident that I got beat up pretty badly. And after that point, it was used a lot more often"
+    #hide t_heard
+    #show t_bredehoft
+    #bredehoft "Okay. Now, March 26, 2015, this is after the first Australia trip and after the staircase incident. I'm going to ask, Michelle, can you bring up Depp Exhibit 371A?"
+    #hide t_bredehoft
+    #show t_judge
+    #judge "Plaintiff's 371A then. Any objection?"
+    #hide t_judge
+    #show t_vasquez
+    #vasquez "No objection."
+    #hide t_vasquez
+    #show t_judge
+    #judge "Okay, 371A in evidence. Thank you."
+    #hide t_judge
+    #show t_tightrope
+    #
+    ## AUDIO RECORDINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+    #heard "I see somebody who's changing into different versions of a person that I recognize for a brief moment, and then he slips away, then he disappears. Then I get different versions of him. I get the insecure or scared version of him that lashes out in a different medium every time."
+    #heard "So if it's Adderall or Junkie Johnny, then he's abusive and he's a tyrant and he's mean, he's reactionary and he's (inaudible), and anything I do and say is cause for violence or anger."
+    #heard "If I speak bluntly from the heart, I'm yelling at him. If I argue back with him, then I'm abusive. If I don't say anything, then I'm dismissive or absent or somewhere else. If I engage with him, I'm part of the problem, I'm the one that was mean. "
+    #heard "If I don't engage with him, then I'm part of the problem. No matter what I do I'm fucked."
+    #heard "Because if I look at him in the wrong way, it's a problem. If I say the wrong thing no matter what it is, I'm the problem. I'm the problem no matter what. That's the guy who's on a bunch of fucking speed."
+    #hide t_tightrope
+    ## AUDIO RECORDINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+    #show t_bredehoft
+    #bredehoft "What did you mean when you were saying that to Mr. Depp?"
+    #hide t_bredehoft
+    #show t_heard
+    #heard "That no matter my perception was, no matter what I did, no matter what I did to de-escalate, walk away from him, to confront him, to try to..."
+    #heard "nothing I did made a difference, nothing I did changed his rage at me, nothing I did changed the violence towards me, nothing I did calmed him down, and I was constantly doing a juggling act of what kind of version of Johnny I was dealing with."
+    #hide t_heard
+    #show t_heard
+    #heard "There were different versions of him and they were drastically different from one another, and even more so than them being different from one another, they didn't even sometimes remember what the other version did or said."
+    #hide t_heard
+    #show t_heard
+    #heard "They acted almost like independent versions of his person, depending on what combination of drugs and alcohol he was on. That's what I was trying to express to him. It's just the futility of me responding successfully and the futility of trying to constantly negotiate with him and the substances he was on at the time."
+    #hide t_heard
+    #show t_time
+    #"May 18, 2022, Continued."
+    #hide t_time
+    #show t_judge
+    #judge "Thank you. All right, be seated. Ms. Vasquez, you may begin your Cross-examination. Next question."
+    #hide t_judge
+    #show t_vasquez
+    #vasquez "Good afternoon, Ms. Heard"
+    #hide t_vasquez
+    #show t_vasquez
+    #vasquez "Mr. Depp hasn't looked at you once this entire trial, has he?"
+    #hide t_vasquez
+    #show t_depp
+    #hide t_depp
+    #show t_heard
+    #heard "Not that I've noticed, no."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "You've looked at him, though, many times, haven't you?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "Yes, I have."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "You know exactly why Mr. Depp won't look back at you, don't you?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "I do."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "He promised you he would never...you would never see his eyes again. Isn't that true?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "I don't recall if he said that."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "One of the last times you ever saw Mr. Depp was when you met him in San Francisco in July of 2016, right?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "That was the second to last time I saw him, yes."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "And this was after you had publicly accused him of domestic violence?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "I got my restraining order before that, yes."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "Let's please play Plaintiff's Exhibit 1229. For the record, it's at 11:01 through 12:09. I'm going to ask that it be admitted into evidence."
+    #hide t_vasquez
+    #show t_judge
+    #judge "Any objection to 1229?"
+    #hide t_judge
+    #show t_bredehoft
+    #bredehoft "No objection."
+    #hide t_bredehoft
+    #show t_judge
+    #judge "Okay, 1229 entered in its entirety. Go ahead and play your section."
+    #hide t_judge
+    ## AUDIO RECOOOOOOOOOOOOOOOOOOORDING
+    #show t_phone
+    #heard "Is this how you want it to end? I don't understand, is this what you want?"
+    #depp "No. Oh no, a hug will save it all. All this, everything you just did to me."
+    #heard "Please, babe. I don't know. I just wanted to touch you. Seriously, it's..."
+    #depp "Really, after all the shit you just said?"
+    #heard "Yes, I just wanted to give you a hug, I just.."
+    #depp "After all the shit you fucking accused me of, you wanna touch me?"
+    #heard "Yes, yes, please, please hug me"
+    #depp "You're fucking nuts"
+    #heard "Please, I just wanted to hug you and say bye. I didn't want it to end bad."
+    #depp "Oh, there is no chance of that. We did that last night, it was fine. That was good enough."
+    #heard "I don't know what else to say."
+    #depp "No, 'cause I'm nothing to you, and I will always be nothing to you."
+    #heard "Please, please, calm. Calm down, baby, please."
+    #depp "What? You're not my shrink."
+    #heard "Please. Please, put your hand on my heart. Please just feel my heart, please."
+    #depp "No."
+    #heard "Please, I need to know if we'll ever see each other again, please."
+    #depp "No, we'll never see each other again. We will never...don't take my fucking glasses off. You don't like fucking looking at not my fucking eyes? You will not see my eyes again."
+    #hide t_phone
+    ## AUDIO RECOOOOOOOOOOOOOOOOOOORDING
+    #show t_vasquez
+    #vasquez "This is from when you and Mr. Depp met in San Francisco in July of 2016, right? After you had publicly accused him of domestic abuse?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "Yes, and got my TRO."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "And he tells you, 'You will not see my eyes again.' And he has kept that promise, hasn't he?"
+    #hide t_vasquez
+    #show t_heard
+    #heard "As far as I know, he cannot look at me."
+    #hide t_heard
+    #show t_vasquez
+    #vasquez "He won't look at you, right, Ms. Heard."
+    #hide t_vasquez
+    #show t_heard
+    #heard "He can't."
+    #hide t_heard
+    show t_choice
+    menu:
+        "(Evidence) Show the court the recording of Ms. Heard mocking Mr. Depp's claims of being abused":
+            $ score += 1
+        "(Evidence) Mr. Depp's text messages indicating his 2016 travel plans":
+            chew "Remember, we need to focus on the core of our argument. The text messages about travel plans, while interesting, don't directly challenge the narrative we're contesting."
+    hide t_choice
     show t_vasquez
     vasquez "Let's please play Plaintiff's Exhibit 357A, which is already in evidence, Your Honor. And for the record, it's 21:22 through 21:40."
     hide t_vasquez
@@ -323,12 +345,13 @@ label start_week5:
     show t_heard
     heard "With all due respect, I wasn't saying it because he's a man, I was saying it because he was a man who beat me up for five years."
     hide t_heard
-    show t_vasquez
-    vasquez "Keep pushing or Back off?"
-    hide t_vasquez
-    show t_chew
-    chew "We�ve got her feet to the fire! We have to take advantage of this opportunity."
-    hide t_chew
+    show t_choice
+    menu:
+        "Keep pushing":
+            $ score += 1
+        "Ease up the pressure":
+            chew "We've got her feet to the fire! We have to take advantage of this opportunity. Keep pushing!"
+    hide t_choice
     show t_vasquez
     vasquez "Mr. Depp is your victim, isn't he?"
     hide t_vasquez
@@ -395,9 +418,9 @@ label start_week5:
     show t_vasquez
     vasquez "Okay, let's please pull up Defendant's Exhibit 170A, which is already in evidence, Your Honor."
     hide t_vasquez
-    show t_vasquez
+    show t_heardBruise
     vasquez "You testified this is a picture you took after that incident, right?"
-    hide t_vasquez
+    hide t_heardBruise
     show t_heard
     heard "Yes, that was one where he grabbed me."
     hide t_heard
@@ -470,9 +493,9 @@ label start_week5:
     show t_vasquez
     vasquez "Let's please pull up Plaintiff's Exhibit 1248."
     hide t_vasquez
-    show t_vasquez
-    vasquez "Let's please pull up Plaintiff's Exhibit 1248. Ms. Heard, this is a picture of you in Russia after the incident, correct?"
-    hide t_vasquez
+    show t_heardCar
+    vasquez "Ms. Heard, this is a picture of you in Russia after the incident, correct?"
+    hide t_heardCar
     show t_heard
     heard "That's correct."
     hide t_heard
@@ -524,9 +547,9 @@ label start_week5:
     show t_vasquez
     vasquez "Let's pull please pull up Plaintiff's Exhibit 1252."
     hide t_vasquez
-    show t_vasquez
+    show t_heardMetGala
     vasquez "This is a picture of you, Ms. Heard At that event? The night after the Met Gala? The night after Mr. Depp allegedly broke your nose?"
-    hide t_vasquez
+    hide t_heardMetGala
     show t_heard
     heard "Yes, it is. I'm not sure if it was broken for the record, but you should see what it looked like underneath the makeup."
     hide t_heard
@@ -534,11 +557,14 @@ label start_week5:
     vasquez "I think this...if Your Honor is fine, this is a good stopping point."
     hide t_vasquez
     show t_judge
-    judge "Okay, that's fine. All right, ladies and gentlemen, we'll stop here for the evening. Remember, tonight, do not do any outside research, do not discuss the case with anybody. I know these days are a little longer and I appreciate your patience and you're taking care of everything here. Please take care of yourself tonight, okay? And we'll see you in the morning at 9AM"
+    judge "Okay, that's fine. All right, ladies and gentlemen, we'll stop here for the evening. Remember, tonight, do not do any outside research, do not discuss the case with anybody. I know these days are a little longer and I appreciate your patience and you're taking care of everything here." 
+    judge "Please take care of yourself tonight, okay? And we'll see you in the morning at 9AM"
     hide t_judge
-    show t_#day18trial
-    #Day 18 Trial: "Johnny Depp v. Amber Heard"
-    hide t_#day18trial
+    show courtroom_1 
+    "Day 18 Trial: 'Johnny Depp v. Amber Heard' \n
+    May 17, 2022 \n
+    Fairfax County, Virginia"
+    hide courtroom_1
     show t_judge
     judge "Please be seated."
     hide t_judge
@@ -557,14 +583,14 @@ label start_week5:
     show t_heard
     heard "Yes, that is correct."
     hide t_heard
-    show t_vasquez
+    show t_magic
     vasquez "You also testified that Mr. Depp, as far as you could tell, was sober that first year. You called that time in your life 'magical.'"
-    hide t_vasquez
+    hide t_magic
     show t_heard
     heard "That is what I used to believe."
     hide t_heard
     show t_vasquez
-    vasquez "But now, you�ve told this jury that Mr. Depp was being violent with you throughout 2012, the very same time period, haven't you, Ms. Heard?"
+    vasquez "But now, you've told this jury that Mr. Depp was being violent with you throughout 2012, the very same time period, haven't you, Ms. Heard?"
     hide t_vasquez
     show t_heard
     heard "No. He was hitting me in 2012, but he took a break in the middle of the year when he was sober."
@@ -578,22 +604,23 @@ label start_week5:
     show t_vasquez
     vasquez "Contradicting what you have said previously, you now claim that Mr. Depp was in and out of sobriety during this time, and that 'cycles of violence' followed from Mr. Depp's alcohol consumption..."
     hide t_vasquez
-    show t_vasquez
-    vasquez "(Internal Thoughts). I have demonstrated to the jury some inconsistencies in her testimony. How should I emphasize these contradictions and most effectively cap this line of argument off?  (Evidence) Knife gifted to Mr. Depp from heardthat year or (Evidence) 2012 Photo of Mr. Depp and heardsmiling together."
-    hide t_vasquez
-    show t_chew
-    chew "I don't know if that photo will prove anything, vasquez. Show the jury the knife!"
-    hide t_chew
-    show t_vasquez
+    show t_choice
+    menu:
+        "(Evidence) Knife gifted to Mr. Depp from Ms. Heard during these 'cycles of violence'":
+            $ score += 1
+        "(Evidence) 2012 photo of Mr. Depp and Ms. Heard smiling together":
+            chew "I don't know if that photo will prove anything, vasquez. Show the jury the knife!"
+    hide t_choice
+    show t_knifeGift
     vasquez "So, it was during these 'cycles of violence' that you decided to gift Mr. Depp a knife? Master Deputy Sheriff Palusa, please show the jury."
-    hide t_vasquez
-    show t_vasquez
+    hide t_knifeGift
+    show t_sheriff
     vasquez "This is the knife that you gave the man that you claim would get drunk and violent with you, is that right, Ms. Heard?"
-    hide t_vasquez
-    show t_heardSurprisd
+    hide t_sheriff
+    show t_heardSurprised 
     heard "..."
-    hide t_heard
-    show t_heardSurprisd
+    hide t_heardSurprised 
+    show t_heardConcerned
     heard "At the time, I did not believe that he was going to stab me with it, that is for sure."
     hide t_heard
     show t_vasquez
@@ -623,9 +650,9 @@ label start_week5:
     show t_vasquez
     vasquez "Let's take a look at defendant's exhibit 1820. I believe this has already been admitted into evidence. If we could have it published. Thank you. You saw this photo during your direct examination, right?"
     hide t_vasquez
-    show t_vasquez
+    show t_roomFloor
     vasquez "You saw this photo during your direct examination, right?"
-    hide t_vasquez
+    hide t_roomFloor
     show t_heard
     heard "That is correct."
     hide t_heard
@@ -752,9 +779,9 @@ label start_week5:
     show t_vasquez
     vasquez "But you did take two pictures of the bathroom mirrors. Let's please pull up defendant's exhibit 374, which is already in evidence."
     hide t_vasquez
-    show t_vasquez
+    show t_mirror
     vasquez "You took this picture, right, Ms. Heard"
-    hide t_vasquez
+    hide t_mirror
     show t_heard
     heard "Yes. That's correct."
     hide t_heard
@@ -805,13 +832,14 @@ label start_week5:
     hide t_vasquez
     show t_heard
     heard "I had not read that yet. I mean, before. But yeah, that's what it says."
-    hide t_heard
-    show t_vasquez
-    vasquez "(Internal Thoughts). But she took a picture of it, how could she not know what it said?  you were taking pictures of the text, but you had not read that before? or Leave it."
-    hide t_vasquez
-    show t_chew
-    chew "Press her on this vasquez!"
-    hide t_chew
+    hide t_heard  
+    show t_choice
+    menu:
+        "Leave it":
+            chew "Press her on this Ms. Vasquez!"
+        "How could she not have read that? She took a picture of it.":
+            $ score += 1
+    hide t_choice
     show t_vasquez
     vasquez "But you were taking pictures of the text, but you had not read that before?"
     hide t_vasquez
@@ -848,9 +876,9 @@ label start_week5:
     show t_heard
     heard "That's what it looked like."
     hide t_heard
-    show t_vasquez
+    show t_mirror
     vasquez "And you would agree with me that in this photograph, the red text has been smudged with black paint, right?"
-    hide t_vasquez
+    hide t_mirror
     show t_heard
     heard "That's what it looked like."
     hide t_heard
@@ -864,36 +892,18 @@ label start_week5:
     vasquez "Okay. Let's please pull up plaintiff's exhibit 343, which is already in evidence, and play the portion from 157:21 through 158:54. It's a recording, Your Honor."
     hide t_vasquez
     # AUDIO RECOOOOOOOOOOOOOOOOOOORDING
-    show t_depp
+    show t_phone
     depp "It's not to get you mad. It's not to get...it's just to get out of a bad situation while it's happening before it gets worse. In Australia, when we had the big fight where I lost the tip of my finger, at least five bathrooms and two bedrooms I went to..."
-    hide t_depp
-    show t_heard
     heard "To avoid talking to me?"
-    hide t_heard
-    show t_depp
     depp "To escape. To escape the fight"
-    hide t_depp
-    show t_heard
     heard "You don't escape the fight, you escape the solution. You escape the solution."
-    hide t_heard
-    show t_depp
     depp "No."
-    hide t_depp
-    show t_heard
     heard "You escape figuring it out. We cannot work it out if you run away to the bathroom every time."
-    hide t_heard
-    show t_depp
     depp "Listen to me. Listen to me. A boxer can't go 12 rounds without a fucking minute break."
-    hide t_depp
-    show t_heard
     heard "I'm not giving you a minute break, you do it at minute three at the beginning of an argument"
-    hide t_heard
-    show t_depp
     depp "No. There are rounds, man. And when it gets too fucking hairy, the ref splits 'em apart or whatever. But all I'm saying is, you can't have a solution if the argument just keeps mounting, and mounting, and mounting, and mounting."
-    hide t_depp
-    show t_depp
     depp "I fucking go into the bathroom and sit on the floor, bam, bam, bam, here you come. I come out, fight, fight, fight, crazy, escalated. I split again, I go to another fucking bathroom or a bedroom or something. Knock, knock, knock, bang, bang, bang. You kept coming to get me."
-    hide t_depp
+    hide t_phone
     # AUDIO RECOOOOOOOOOOOOOOOOOOORDING
     show t_vasquez
     vasquez "This is what really happened in Australia, isn't it, Ms. Heard"
@@ -961,15 +971,22 @@ label start_week5:
     show t_heard
     heard "I very much wanted to leave the relationship I was in, but I didn't have the power. I didn't feel I had the power to leave. I knew I was in a very toxic relationship with Johnny, and I knew I needed to change that. I knew it was, at this point, horrible for me. And I talked to my therapist often about that."
     hide t_heard
+    show t_time
+    "May 19, 2022, Continued."
+    hide t_time
     show t_vasquez
     vasquez "If we could please pull up plaintiff's exhibit 1280, which is a clip from your divorce deposition."
     hide t_vasquez
     show t_heardDivorce
     woman "heard did you send a text message to Jerry Judge on May 24th, 2016, telling Jerry Judge 'I'm desperately trying to reach Johnny. It's extremely important. Please tell him?'"
-    heard "I remember sending the text message that is in front of me right now to Jerry. And I would like...I remember sending this because I wanted to tell Johnny or have him told by Jerry or someone who knew him or was close to him. Basically, I didn't want him to find out online that I had or was about to file, or I had already filed for divorce."
-    heard "I wanted him to know verbally. So I was trying to reach him through a third party to tell him. When I say reach, I'm specifically saying I would like him to know information coming from me or coming from Jerry from me so that he finds out about the divorce filing or my intention to do so from some other source other than TMZ, which was alerted."
-    heard "!!!"
+    heard "I remember sending the text message that is in front of me right now to Jerry."
+    heard "And I would like...I remember sending this because I wanted to tell Johnny or have him told by Jerry or someone who knew him or was close to him. Basically, I didn't want him to find out online that I had or was about to file, or I had already filed for divorce."
+    heard "I wanted him to know verbally. So I was trying to reach him through a third party to tell him."
+    heard "When I say reach, I'm specifically saying I would like him to know information coming from me or coming from Jerry from me so that he finds out about the divorce filing or my intention to do so from some other source other than TMZ, which was alerted."
     hide t_heardDivorce
+    show t_heardDivorceSurprise
+    heard "!!!"
+    hide t_heardDivorceSurprise
     show t_vasquez
     vasquez "You slipped up there, didn't you, Ms. Heard You let it slip out that TMZ had been alerted to your filing of the domestic violence restraining order, didn't you?"
     hide t_vasquez
@@ -1058,10 +1075,10 @@ label start_week5:
     vasquez "'Amber Heard allegedly struck her ex-girlfriend, Tasya van Ree, at the airport in 2009.' Did I read that right?"
     hide t_vasquez
     show t_heard
-    heard "Yes. This is another example of the smear campaign"
+    heard "Yes. This is another example of the smear campaign."
     hide t_heard
     show t_vasquez
-    vasquez "So Mr. Depp is not the only domestic partner you've assaulted, is he, Ms. Heard"
+    vasquez "So Mr. Depp is not the only domestic partner you've assaulted, is he, Ms. Heard?"
     hide t_vasquez
     show t_heard
     heard "I've never assaulted Mr. Depp or anyone else that I've been romantically linked to ever."

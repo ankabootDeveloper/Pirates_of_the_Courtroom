@@ -3,7 +3,6 @@ define judge = Character("Judge Azcarate", color="#c8ffc8")
 define depp = Character("Mr. Depp", color="#ffc8c8")
 define meyers = Character("Ms. Meyers", color="#ffc8ff")
 
-
 # Start of the game
 label start_week2:
     scene black  # Set background color to black
@@ -87,5 +86,4 @@ label continue_script_4:
     
     meyers "I do not have anything else for the day, Your Honor."
     
-    # Display the score and end the game
-   
+

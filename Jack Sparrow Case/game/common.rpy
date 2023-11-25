@@ -1,6 +1,5 @@
 # common.rpy
 # Define score variable
-default score = 0
 
 # Function to display the score
 label display_score:
