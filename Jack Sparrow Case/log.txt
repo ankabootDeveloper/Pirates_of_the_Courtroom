@@ -1,4 +1,4 @@
-Fri Nov 24 17:41:48 2023
+Fri Nov 24 18:23:21 2023
 Windows-10-10.0.19045
 Ren'Py 8.1.3.23091805
  
@@ -7,121 +7,35 @@ Bootstrap to the start of init.init. took 0.05s
 Early init. took 0.00s
 Loader init. took 0.05s
 Loading error handling. took 0.04s
-Loading script. took 0.42s
+Loading script. took 0.39s
 Loading save slot metadata. took 0.05s
 Loading persistent. took 0.00s
-
-File "game/week5_script.rpy", line 163: expected statement.
-    heard[Audio Recording]: "I see somebody who's changing into different versions of a person that I recognize for a brief moment, and then he slips away, then he disappears. Then I get different versions of him. I get the insecure or scared version of him that lashes out in a different medium every time."
-                          ^
-
-File "game/week5_script.rpy", line 166: expected statement.
-    heard[Audio Recording]: "So if it's Adderall or Junkie Johnny, then he's abusive and he's a tyrant and he's mean, he's reactionary and he's [inaudible], and anything I do and say is cause for violence or anger."
-                          ^
-
-File "game/week5_script.rpy", line 169: expected statement.
-    heard[Audio Recording]: "If I speak bluntly from the heart, I'm yelling at him. If I argue back with him, then I'm abusive. If I don't say anything, then I'm dismissive or absent or somewhere else. If I engage with him, I'm part of the problem, I'm the one that was mean. If I don't engage with him, then I'm part of the problem. No matter what I do I'm fucked."
-                          ^
-
-File "game/week5_script.rpy", line 172: expected statement.
-    heard[Audio Recording]: "Because if I look at him in the wrong way, it's a problem. If I say the wrong thing no matter what it is, I'm the problem. I'm the problem no matter what. That's the guy who's on a bunch of fucking speed."
-                          ^
-
-File "game/week5_script.rpy", line 318: end of line expected.
-    scene t_mr.chew
-              ^
-
-File "game/week5_script.rpy", line 319: expected statement.
-    Mr. Chew: "Remember, we need to focus on the core of our argument. The text messages about travel plans, while interesting, don't directly challenge the narrative we're contesting. It's more impactful to use the recording where heardmocks Mr. Depp's claim of being a victim. This directly addresses the credibility of her statements and supports our case more effectively."
-            ^
-
-File "game/week5_script.rpy", line 320: end of line expected.
-    hide t_mr.chew
-             ^
-
-File "game/week5_script.rpy", line 362: end of line expected.
-    scene t_mr.chew
-              ^
-
-File "game/week5_script.rpy", line 363: expected statement.
-    Mr. Chew: "We�ve got her feet to the fire! We have to take advantage of this opportunity."
-            ^
-
-File "game/week5_script.rpy", line 364: end of line expected.
-    hide t_mr.chew
-             ^
-
-File "game/week5_script.rpy", line 617: end of line expected.
-    scene t_mr.chew
-              ^
-
-File "game/week5_script.rpy", line 618: expected statement.
-    Mr. Chew: "I don�t know if that photo will prove anything, vasquez. Show the jury the knife!"
-            ^
-
-File "game/week5_script.rpy", line 619: end of line expected.
-    hide t_mr.chew
-             ^
-
-File "game/week5_script.rpy", line 845: end of line expected.
-    scene t_mr.chew
-              ^
-
-File "game/week5_script.rpy", line 846: expected statement.
-    Mr. Chew: "Press her on this vasquez!"
-            ^
-
-File "game/week5_script.rpy", line 847: end of line expected.
-    hide t_mr.chew
-             ^
-
-File "game/week5_script.rpy", line 1001: expected statement.
-    Woman: "heard did you send a text message to Jerry Judge on May 24th, 2016, telling Jerry Judge 'I'm desperately trying to reach Johnny. It's extremely important. Please tell him?'"
-         ^
-
-File "game/week5_script.rpy", line 1138: expected statement.
-    heard[Audio Recording]: "I see somebody who's changing into different versions of a person that I recognize for a brief moment, and then he slips away, then he disappears. Then I get different versions of him. I get the insecure or scared version of him that lashes out in a different medium every time."
-                          ^
-
-File "game/week5_script.rpy", line 1139: expected statement.
-    heard[Audio Recording]: "So if it's Adderall or Junkie Johnny, then he's abusive and he's a tyrant and he's mean, he's reactionary and he's [inaudible], and anything I do and say is cause for violence or anger."
-                          ^
-
-File "game/week5_script.rpy", line 1140: expected statement.
-    heard[Audio Recording]: "If I speak bluntly from the heart, I'm yelling at him. If I argue back with him, then I'm abusive. If I don't say anything, then I'm dismissive or absent or somewhere else. If I engage with him, I'm part of the problem, I'm the one that was mean. If I don't engage with him, then I'm part of the problem. No matter what I do I'm fucked."
-                          ^
-
-File "game/week5_script.rpy", line 1141: expected statement.
-    heard[Audio Recording]: "Because if I look at him in the wrong way, it's a problem. If I say the wrong thing no matter what it is, I'm the problem. I'm the problem no matter what. That's the guy who's on a bunch of fucking speed."
-                          ^
-
-File "game/week5_script.rpy", line 1143: expected statement.
-    Depp?
-        ^
-
-File "game/week5_script.rpy", line 1193: expected statement.
-    Mr. Chew: "Remember, we need to focus on the core of our argument. The text messages about travel plans, while interesting, don't directly challenge the narrative we're contesting. It's more impactful to use the recording where heardmocks Mr. Depp's claim of being a victim. This directly addresses the credibility of her statements and supports our case more effectively."
-            ^
-
-File "game/week5_script.rpy", line 1207: expected statement.
-    Mr. Chew: "We’ve got her feet to the fire! We have to take advantage of this opportunity."
-            ^
-
-File "game/week5_script.rpy", line 1296: expected statement.
-    Mr. Chew: "I don’t know if that photo will prove anything, vasquez. Show the jury the knife!"
-            ^
-
-File "game/week5_script.rpy", line 1372: expected statement.
-    Mr. Chew: "Press her on this vasquez!"
-            ^
-
-File "game/week5_script.rpy", line 1426: expected statement.
-    Woman: "heard did you send a text message to Jerry Judge on May 24th, 2016, telling Jerry Judge 'I'm desperately trying to reach Johnny. It's extremely important. Please tell him?'"
-         ^
+Running init code. took 0.07s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.00s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Tristan\\AppData\\Roaming/RenPy/backups\\Jack Sparrow Case':
+Dump and make backups. took 0.09s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start. took 0.71s
+Creating interface object. took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.31s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
