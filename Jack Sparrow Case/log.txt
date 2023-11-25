@@ -1,4 +1,4 @@
-Fri Nov 24 21:39:15 2023
+Fri Nov 24 22:08:00 2023
 Windows-10-10.0.19045
 Ren'Py 8.1.3.23091805
  
@@ -7,7 +7,7 @@ Bootstrap to the start of init.init. took 0.05s
 Early init. took 0.00s
 Loader init. took 0.05s
 Loading error handling. took 0.03s
-Loading script. took 0.37s
+Loading script. took 0.39s
 Loading save slot metadata. took 0.06s
 Loading persistent. took 0.00s
 Running init code. took 0.07s
@@ -19,23 +19,23 @@ Backing up script files to 'C:\\Users\\Tristan\\AppData\\Roaming/RenPy/backups\\
 Dump and make backups. took 0.09s
 Cleaning cache. took 0.00s
 Making clean stores. took 0.00s
-Initial gc. took 0.04s
+Initial gc. took 0.03s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object. took 0.35s
+Creating interface object. took 0.30s
 Cleaning stores took 0.00s
 Init translation took 0.06s
-Build styles took 0.00s
+Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
-Save screen analysis took 0.02s
+Save screen analysis took 0.03s
 Prepare screens took 0.09s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.03s
 Running _start took 0.00s
 Performance test:
-Interface start. took 0.29s
+Interface start. took 0.30s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -49,7 +49,7 @@ Screen sizes: virtual=(1920, 1080) physical=(1278, 719) drawable=(1278, 719)
 Maximum texture size: 4096x4096
 
 Full traceback:
-  File "game/week5_script.rpy", line 621, in script
+  File "game/week5_script.rpy", line 627, in script
     heard "..."
   File "C:\Users\Tristan\Downloads\renpy-8.1.3-sdk\renpy\ast.py", line 930, in execute
     renpy.exports.say(who, what, *args, **kwargs)
@@ -104,9 +104,9 @@ Full traceback:
     filelike = renpy.loader.load(self.filename, directory="images")
   File "C:\Users\Tristan\Downloads\renpy-8.1.3-sdk\renpy\loader.py", line 833, in load
     raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 't_heardSurprised.jpg'.
+OSError: Couldn't find file 't_heardshocked.png'.
 
-While loading <renpy.display.im.Image object ('t_heardSurprised.jpg') at 0x00000000051c6220>:
-  File "game/week5_script.rpy", line 621, in script
+While loading <renpy.display.im.Image object ('t_heardshocked.png') at 0x000000000522cac0>:
+  File "game/week5_script.rpy", line 627, in script
     heard "..."
-OSError: Couldn't find file 't_heardSurprised.jpg'.
+OSError: Couldn't find file 't_heardshocked.png'.
