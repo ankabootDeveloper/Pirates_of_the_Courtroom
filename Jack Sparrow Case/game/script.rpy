@@ -1,5 +1,6 @@
 ﻿# The script of the game goes in this file.
 
+
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
@@ -10,10 +11,12 @@ define amber = Character("Amber Heard")
 define vasquez = Character("Camille Vasquez")
 define rottenborn = Character("Mr.Rottenborn")
 define meyers = Character("Ms. Meyers")
+
+default score = 0
 # The game starts here.
-
 label start:
-
+    
+    # Call the function to get the player's name
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -74,15 +77,19 @@ label start:
         menu objection1:
             "Relevance...":
                 show judge_1 at topleft
+                play sound "audio/gavelsmack.mp3" volume 0.9
                 judge "Overruled, does not apply"
                 hide judge_1
             "Compound":
                 show judge_1 at topleft
+                play sound "audio/gavelsmack.mp3" volume 0.9
+                $ score += 1
                 judge "Sustained, please keep questions singular and direct, please"
                 $ correct_choice = True
                 hide judge_1
             "Speculation":
                 show judge_1 at topleft
+                play sound "audio/gavelsmack.mp3" volume 0.9
                 judge "Overruled, I don't see how that applies."
                 hide judge_1
     hide meyers_1
@@ -97,6 +104,8 @@ label start:
         zoom 1.8
     with dissolve
     j "If anyone had a problem with my drinking at any time in my life, it was me. The only person that I've ever abused in my life is myself."
-    # This ends the game.
+    hide johnny_1
 
+    call display_score
     return
+    # This ends the game.
