@@ -1,34 +1,5922 @@
-Tue Sep 26 21:46:57 2023
-Windows-10-10.0.22621
+Tue Nov 28 23:06:14 2023
+macOS-10.16-x86_64-i386-64bit
 Ren'Py 8.1.3.23091805
  
 
-Bootstrap to the start of init.init. took 0.02s
+Bootstrap to the start of init.init. took 0.04s
 Early init. took 0.00s
 Loader init. took 0.02s
-Loading error handling. took 0.02s
-Loading script. took 0.07s
-Loading save slot metadata. took 0.02s
+Loading error handling. took 0.05s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.05s
 Loading persistent. took 0.00s
-Running init code. took 0.03s
-Loading analysis data. took 0.01s
-Analyze and compile ATL. took 0.00s
-Reloading save slot metadata. took 0.01s
+Running init code. took 0.07s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
 Index archives took 0.00s
-Dump and make backups. took 0.03s
+Dump and make backups. took 0.05s
 Cleaning cache. took 0.00s
 Making clean stores. took 0.00s
 Initial gc. took 0.02s
-DPI scale factor: 2.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
+DPI scale factor: 1.000000
 Creating interface object. took 0.00s
 Cleaning stores took 0.00s
-Init translation took 0.02s
+Init translation took 0.04s
 Build styles took 0.00s
-Load screen analysis took 0.02s
+Load screen analysis took 0.05s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.04s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.04s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.63s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 244.32s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.05s
+Loading script. took 0.40s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 288.66s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.29s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 375.01s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 529.57s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 569.46s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 604.70s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.04s
+Loading script. took 0.38s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 606.74s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.25s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 663.30s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 674.41s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 702.16s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 764.81s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 798.34s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 824.59s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 831.14s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.26s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 875.46s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 915.26s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 997.27s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1037.24s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1051.23s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1087.97s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1105.16s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1125.23s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.29s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1166.57s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1180.58s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1200.74s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1218.03s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1244.40s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.45s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.06s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.02s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object. took 0.02s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1249.43s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1331.70s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1354.87s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1415.92s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1458.94s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1545.55s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1583.75s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1596.46s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1631.80s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1697.11s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1730.82s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1775.31s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1800.26s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1895.90s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1965.82s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 1999.54s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2208.69s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.43s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2262.48s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2288.85s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2307.80s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2339.11s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.39s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2420.26s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.05s
+Loading script. took 0.45s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.08s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1338, 753) drawable=(2676, 1506)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1338, 751) drawable=(2676, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2558.04s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.45s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.05s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.10s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.10s
+Build styles took 0.03s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.14s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2582.76s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2620.21s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.07s
+Loading script. took 0.95s
+Loading save slot metadata. took 0.10s
+Loading persistent. took 0.00s
+Running init code. took 0.08s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.06s
+Reloading save slot metadata. took 0.12s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.12s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.06s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.08s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.18s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2640.71s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.40s
+Loading save slot metadata. took 0.07s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.03s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2644.14s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.28s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2656.76s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2672.34s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2842.47s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.55s
+Loading save slot metadata. took 0.07s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2902.13s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.42s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2935.82s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.39s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.03s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2946.93s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.28s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2965.79s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2969.18s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.26s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 2983.40s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3048.93s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3084.46s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3091.16s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.06s
+Loading persistent. took 0.00s
+Running init code. took 0.08s
+Loading analysis data. took 0.04s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.06s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.08s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.08s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.16s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3232.82s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.05s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.21s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3248.48s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3277.75s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.28s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3293.44s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3315.13s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3333.77s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 564, in script
+    scene party with top
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/ast.py", line 1678, in execute
+    renpy.exports.with_statement(trans, paired=paired)
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/exports.py", line 1758, in with_statement
+    return renpy.game.interface.do_with(trans, paired, clear=clear)
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/display/core.py", line 2978, in do_with
+    return self.interact(trans_pause=True,
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/display/core.py", line 3582, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/display/core.py", line 3976, in interact_core
+    trans = instantiate_transition(None, old_root, layers_root)
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/display/core.py", line 3922, in instantiate_transition
+    trans = self.ongoing_transition[layer](
+  File "/Users/azein01/Desktop/Capstone/renpy-8.1.3-sdk/renpy/atl.py", line 489, in __call__
+    raise Exception('Parameter %r is not known by ATL Transform.' % k)
+Exception: Parameter 'old_widget' is not known by ATL Transform.
+
+While running game code:
+  File "game/script.rpy", line 564, in script
+    scene party with top
+Exception: Parameter 'old_widget' is not known by ATL Transform.
+Resetting cache.
+Bootstrap to the start of init.init. took 3382.89s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3471.14s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3512.37s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3538.58s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.49s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.05s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3567.75s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.03s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3581.95s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3596.26s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.11s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3716.69s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.03s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3759.56s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3844.83s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3855.76s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.27s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3871.24s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.28s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3887.00s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3917.99s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3936.55s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3959.63s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3972.18s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 3990.97s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.29s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4017.27s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4043.55s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4065.21s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.39s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4087.14s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.44s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4104.45s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4135.25s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.38s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4179.58s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4225.50s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4229.02s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.25s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4275.24s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.01s
+Save screen analysis took 0.04s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4301.33s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.39s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4303.20s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.28s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.01s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.07s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4359.46s
+Early init. took 0.00s
+Loader init. took 0.03s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4408.39s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4413.31s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.26s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4486.82s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.04s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4499.32s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4501.30s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4507.69s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4518.64s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.01s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4522.05s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.11s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4534.50s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4557.52s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.31s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4599.25s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.04s
+Loading script. took 0.40s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4617.78s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4634.95s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.01s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.08s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4637.28s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.26s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4654.32s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4683.73s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.02s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4709.96s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4716.52s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.27s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4719.99s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.27s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4783.36s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4799.14s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4830.09s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.35s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4877.79s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.34s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4896.42s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4919.71s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4962.51s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.05s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4973.57s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.27s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 4978.51s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.02s
+Loading script. took 0.25s
+Loading save slot metadata. took 0.03s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init. took 4996.85s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.03s
+Loading script. took 0.30s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.03s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 5015.27s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.37s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.06s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 5033.90s
+Early init. took 0.00s
+Loader init. took 0.02s
+Loading error handling. took 0.02s
+Loading script. took 0.36s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.07s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 5056.90s
+Early init. took 0.00s
+Loader init. took 0.01s
+Loading error handling. took 0.03s
+Loading script. took 0.33s
+Loading save slot metadata. took 0.04s
+Loading persistent. took 0.00s
+Running init code. took 0.04s
+Loading analysis data. took 0.02s
+Analyze and compile ATL. took 0.01s
+Reloading save slot metadata. took 0.03s
+Index archives took 0.00s
+Backing up script files to '/Users/azein01/Library/RenPy/backups/Jack Sparrow Case':
+Dump and make backups. took 0.05s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.05s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init. took 5078.44s
+Early init. took 0.00s
+Loader init. took 0.05s
+Loading error handling. took 0.05s
+Loading script. took 0.74s
+Loading save slot metadata. took 0.11s
+Loading persistent. took 0.00s
+Running init code. took 0.23s
+Loading analysis data. took 0.04s
+Analyze and compile ATL. took 0.03s
+Reloading save slot metadata. took 0.15s
+Index archives took 0.00s
+Dump and make backups. took 0.29s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 0.27s
+DPI scale factor: 1.000000
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.35s
+Build styles took 0.01s
+Load screen analysis took 0.11s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.25s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start. took 0.23s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel Inc.'"
+Renderer: b'Intel(R) Iris(TM) Plus Graphics 655'
+Version: b'2.1 INTEL-22.1.28'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1335, 751) drawable=(2670, 1502)
+Maximum texture size: 4096x4096
